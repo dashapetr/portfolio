@@ -1,4 +1,8 @@
-This project is dedicated to a short and simple investigation of CIA Factbook. 
+This project is dedicated to a short and simple investigation of CIA Factbook.
+
+factbook.db - database
+basic.ipynb - Jupyter Notebook file with code and comments
+
 Using SQL commands we received some summery statistics, found outliers.
 
 Then after average population and area were found we discovered 7 densely populated countries.
