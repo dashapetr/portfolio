@@ -1,7 +1,9 @@
 This project is dedicated to a short and simple investigation of CIA Factbook.
 
-factbook.db - database
-basic.ipynb - Jupyter Notebook file with code and comments
+- factbook.db - database
+
+- basic.ipynb - Jupyter Notebook file with code and comments
+
 
 Using SQL commands we received some summery statistics, found outliers.
 
